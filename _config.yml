@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: LiBiancheng
 
 author-pic: leach-face.jpg
-about-author: I am an Android developer.I will add description latter.
+about-author: 一名具有2年码龄的代码员
 
 #修改成你自己的
 # Contact links
@@ -88,7 +88,7 @@ links1:
     url:          /blogdemo/myblog/essays
     type:         essays
     external:     false
-  - name:         Jekyll
+  - name:         Python
     url:          /blogdemo/myblog/jekyll
     type:         jekyll
     external:     false
