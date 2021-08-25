@@ -23,9 +23,9 @@ instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 #修改成你自己的
-email:ljy123ljy123@dingtalk.com
+email: ljy123ljy123@dingtalk.com
 phone:
-github:https://github.com/LiBiancheng
+github: https://github.com/LiBiancheng
 jianshu:
 juejin:
 csdn:
@@ -40,7 +40,7 @@ discus_identifier: LiBiancheng
 intensedebate_identifier:
 
 # Tracker Google Analytics修改成你自己的
-google-analysis:Tig-ljy
+google-analysis: Tig-ljy
 baidu-analysis:
 
 #youyan
